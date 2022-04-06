@@ -1,0 +1,15 @@
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\net6.0\CathedraBeta.exe
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\net6.0\CathedraBeta.deps.json
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\net6.0\CathedraBeta.runtimeconfig.json
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\net6.0\CathedraBeta.dll
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\net6.0\ref\CathedraBeta.dll
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\net6.0\CathedraBeta.pdb
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\net6.0\CathedraBeta.csproj.AssemblyReference.cache
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\net6.0\CathedraBeta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\net6.0\CathedraBeta.AssemblyInfoInputs.cache
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\net6.0\CathedraBeta.AssemblyInfo.cs
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\net6.0\CathedraBeta.csproj.CoreCompileInputs.cache
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\net6.0\CathedraBeta.dll
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\net6.0\ref\CathedraBeta.dll
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\net6.0\CathedraBeta.pdb
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\net6.0\CathedraBeta.genruntimeconfig.cache

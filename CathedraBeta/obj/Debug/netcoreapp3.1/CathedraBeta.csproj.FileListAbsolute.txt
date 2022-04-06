@@ -1,0 +1,14 @@
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\netcoreapp3.1\CathedraBeta.exe
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\netcoreapp3.1\CathedraBeta.deps.json
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\netcoreapp3.1\CathedraBeta.runtimeconfig.json
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\netcoreapp3.1\CathedraBeta.runtimeconfig.dev.json
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\netcoreapp3.1\CathedraBeta.dll
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\bin\Debug\netcoreapp3.1\CathedraBeta.pdb
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\netcoreapp3.1\CathedraBeta.AssemblyInfoInputs.cache
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\netcoreapp3.1\CathedraBeta.AssemblyInfo.cs
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\netcoreapp3.1\CathedraBeta.csproj.CoreCompileInputs.cache
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\netcoreapp3.1\CathedraBeta.dll
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\netcoreapp3.1\CathedraBeta.pdb
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\netcoreapp3.1\CathedraBeta.genruntimeconfig.cache
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\netcoreapp3.1\CathedraBeta.csproj.AssemblyReference.cache
+C:\Users\lorop\source\repos\CathedraBeta\CathedraBeta\obj\Debug\netcoreapp3.1\CathedraBeta.GeneratedMSBuildEditorConfig.editorconfig
